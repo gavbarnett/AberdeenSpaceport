@@ -1119,3 +1119,10 @@
 .srclink {
 	font-size: 14px;
 }
+
+#countdown {
+	font-size: 42px;
+	font-weight: bold;
+	color: #fff;
+	margin-top: 20px;
+}
