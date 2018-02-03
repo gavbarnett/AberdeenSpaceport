@@ -1126,3 +1126,7 @@
 	color: #fff;
 	margin-top: 20px;
 }
+
+img {
+	max-width: 100%;
+}
