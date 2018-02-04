@@ -120,11 +120,13 @@ function updateGameArea() {
     ctx.font = "30px Arial";
     ctx.textAlign = "left";
     ctx.fillStyle = '#aaaaaa';
-    ctx.fillText("Score: " + points, 10, 50);
+    ctx.fillText("Aberdeen Spaceport - Flight Simulator", 10, 50);
+    ctx.fillText("WASD + Space", 10, 100);
+    ctx.fillText("Score: " + points, 10, 150);
 
     var ctx = myGameArea.context;
     ctx.font = "30px Arial";
     ctx.textAlign = "left";
     ctx.fillStyle = '#aaaaaa';
-    ctx.fillText("Score: " + points, 10, 50);
+    ctx.fillText("Score: " + points, 10, 150);
 }
